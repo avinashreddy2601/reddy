@@ -1,0 +1,18 @@
+this is first class of linux
+i studying the os 
+this is first class of linux
+i studying the os
+this is first class of linux
+i studying the os
+this is first class of linux
+i studying the os
+this is first class of linux
+i studying the os
+
+total 16
+drwxrwxr-x. 3 ec2-user ec2-user  26 Mar 20 13:48 dir1
+-rw-rw-r--. 1 ec2-user ec2-user 237 Mar 20 16:38 file1
+-rw-rw-r--. 1 ec2-user ec2-user 237 Mar 20 16:39 file2
+drwxrwxr-x. 3 ec2-user ec2-user  26 Mar 20 16:40 dir2
+-rw-rw-r--. 1 ec2-user ec2-user 237 Mar 20 16:41 log
+-rw-rw-r--. 1 ec2-user ec2-user 335 Mar 20 16:43 file3
